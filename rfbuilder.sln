@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfbuilder_console", "rfbuilder_console\rfbuilder_console.csproj", "{9E2FB3D8-DB72-47F7-81D4-1E5D486EC4EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfbuilder_form", "rfbuilder_form\rfbuilder_form.csproj", "{012AB389-C371-45D5-A549-197B03A0EC30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfbuilder_serialization", "Serialization\rfbuilder_serialization.csproj", "{FEF32FFE-91F5-48F8-B5F5-41C11EAE32C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E2FB3D8-DB72-47F7-81D4-1E5D486EC4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2FB3D8-DB72-47F7-81D4-1E5D486EC4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2FB3D8-DB72-47F7-81D4-1E5D486EC4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2FB3D8-DB72-47F7-81D4-1E5D486EC4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012AB389-C371-45D5-A549-197B03A0EC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012AB389-C371-45D5-A549-197B03A0EC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012AB389-C371-45D5-A549-197B03A0EC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012AB389-C371-45D5-A549-197B03A0EC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF32FFE-91F5-48F8-B5F5-41C11EAE32C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF32FFE-91F5-48F8-B5F5-41C11EAE32C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF32FFE-91F5-48F8-B5F5-41C11EAE32C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF32FFE-91F5-48F8-B5F5-41C11EAE32C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB084238-60E9-4B99-85CF-ECE05B94159D}
+	EndGlobalSection
+EndGlobal
